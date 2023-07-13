@@ -2,8 +2,8 @@
 
 <h2 align="center"> I'm Lehim Vergara a Graphic Designer/ FullStack Developer </h2>
 
-## Portfolio
-<a href="https://lehimv.github.io/LehimV_Portfolio.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-View-orange"></a>
+# Portfolio
+<a href="https://lehimv.github.io/LehimV_Portfolio.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/GitHub Pages-View-orange"></a>
 
 
 ## 🌐 Socials:
