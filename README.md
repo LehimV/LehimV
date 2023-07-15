@@ -8,7 +8,7 @@
 </div>
 
 <br>
-<h2 align="center"> Portfolio </h2>
+<h1 align="center"> Portfolio </h1>
 
 <div align="center">
 <h3>Web Developer</h3>
@@ -20,16 +20,31 @@
 
 
 
-## Languages:
+## Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql)](https://skillicons.dev)
 
-## Frameworks & Libraries:
+<h3>Frameworks & Libraries:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,vite,laravel,bootstrap)](https://skillicons.dev)
 
-## Version Control:
+<h3>Version Control:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+
+### Learning
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,vue)](https://skillicons.dev)
+
+### what's next step
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,py,java)](https://skillicons.dev)
+
+<br>
+
+## Graphic Design?
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,ae,pr,au,xd)](https://skillicons.dev)
 </div>
 
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LehimV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
